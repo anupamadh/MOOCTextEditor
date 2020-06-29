@@ -1,3 +1,7 @@
 # MOOCTextEditor
 - Tests O(n) for various algorithms
 - Creates and Tests a Doubly Linked List
+Spelling Project
+It consists of 2 parts:
+- The first is creating a class which allows us to do single operation mutations of words. For example, it will let us find the word "his" by removing a single letter from "this".
+- The second part will enable us to look through these "nearby" words to find spelling suggestions. So if you mistype and write "swone" it will suggest to you words like "stone".
